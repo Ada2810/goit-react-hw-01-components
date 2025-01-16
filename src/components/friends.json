@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077012.png",
+    "name": "Mango",
+    "isOnline": true
+  },
+  {
+    "id": 2,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077012.png",
+    "name": "Kiwi",
+    "isOnline": false
+  },
+  {
+    "id": 3,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077012.png",
+    "name": "Ajax",
+    "isOnline": true
+  },
+  {
+    "id": 4,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077012.png",
+    "name": "Jay",
+    "isOnline": false
+  }
+]
